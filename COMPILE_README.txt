@@ -50,7 +50,7 @@ Easiest way is using the workspaces provided in the 'workspaces' folder. Project
 Updated notes for compiling and playing under Linux for 4.xx.x versions
 =======================================================================
 
-Thanks to the Bay12Games forums user named xczxc who rightly pointed out the
+Thanks to the Bay12Games forums user named "xczxc" who rightly pointed out the
 need to update this document.
 
 To compile LCS under Linux you will need to obtain the tools for building
@@ -74,9 +74,9 @@ make
 If the compilation was successful no errors should be issued but you will
 see a myriad of warnings displayed all of which are safe to ignore.
 
-At the moment due to continuous development of the game it is probaby
+At the moment due to continuous development of the game it is probably
 safer to not install the game systemwide and thus the best option is to
-play it from the games own directory that resides in your home folder.
+play it from the game's own directory that resides in your home folder.
 
 To do this with little trouble issue the following command while in
 the LCS game folder:
@@ -474,3 +474,5 @@ Ogg Vorbis has better sound quality than MIDI but larger file size.
 in common.h. This will disable SDL, SDL_mixer, and audio, and let
 you compile and build Liberal Crime Squad without any SDL dependencies.
 The only downside to this is you don't get any audio.
+
+rektum ralph
